@@ -1,0 +1,24 @@
+.d-block {
+    border-radius: 50%;
+    height: 500px;
+    width: 400px;
+}
+
+#about, #footer{
+    background-color: #F8F0E5
+}
+
+.w-100{
+    background-color: #0F2C59;
+    color: white;
+}
+
+.mb-4{
+    height: auto;
+    width: auto;
+    background-color: #F8F0E5
+}
+
+.w-100:hover{
+    border: 1px solid black;
+}
